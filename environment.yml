@@ -10,6 +10,7 @@ dependencies:
   - pip
   - pip:
      - qiskit-algorithms
+     - qiskit-machine-learning
      - qiskit-aer
      - jupyterlab
      - notebook
@@ -17,3 +18,4 @@ dependencies:
      - matplotlib
      - ipywidgets
      - seaborn
+     - scikit-learn
